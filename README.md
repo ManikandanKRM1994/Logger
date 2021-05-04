@@ -1,5 +1,4 @@
 # Logger
-Custom Logger Kotlin
 
 Copyright [2021] [ManikandanKRM]
 
